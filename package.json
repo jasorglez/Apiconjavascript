@@ -1,0 +1,19 @@
+{
+  "name": "apiconjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasorglez/Apiconjavascript.git"
+  },
+  "author": "@jsorglez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasorglez/Apiconjavascript/issues"
+  },
+  "homepage": "https://github.com/jasorglez/Apiconjavascript#readme"
+}
