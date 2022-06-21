@@ -52,5 +52,3 @@ const api = axios.create({
     });
   }
   
-  getTrendingMoviesPreview();
-  getCategegoriesPreview();
